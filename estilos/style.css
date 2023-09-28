@@ -132,8 +132,10 @@ form > a.botao:hover{
     background-color: #6cd3cf;
 }
 
-form >a.botao > i {
-    font-size: 0.8em;
+form >a.botao > span {
+    font-size: 0.9em;
+    text-align: center;
+    transform: translateY(2px);
 
 } 
 
